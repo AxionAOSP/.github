@@ -22,6 +22,7 @@ Interested in maintaining a device for AxionOS?  [Apply here →](https://github
 
 ## Contact & Support
 
-- [Updates Channel](https://t.me/AxionOS_Updates)  
-- [Build Support](https://t.me/AxionAOSPBuilders)  
-- [Community Chat](https://t.me/AxionAOSPChat)
+- [Updates Channel](https://t.me/AxionOS_android)  
+- [Build Support](https://t.me/AxionOS_android_builders)  
+- [Community Chat](https://t.me/AxionOS_android_chat)
+- [Discord Community](https://discord.com/invite/FftRuTM8ZR)
